@@ -1,0 +1,41 @@
+.login .loginForm {
+    width: 95vw;
+    margin-left: 5vw;
+}
+
+.login .loginForm form {
+    width: 20vw;
+    margin-left: 37.5vw;
+    margin-top: 50vh;
+    transform: translateY(-50%);
+    display: grid;
+}
+
+.login .loginForm form label {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: normal;
+    margin-top: 2vh;
+}
+
+.login .loginForm form input {
+    height: 35px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 2px 2px 2px 2px #e3e3e3;
+    margin-top: 1vh;
+    background-color: #e3e3e3;
+    padding-left: 5%;
+}
+
+.login .loginForm form button {
+    height: 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1vh;
+    background-color: #e3e3e3;
+    width: 30%;
+    margin-top: 4vh;
+}
